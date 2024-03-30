@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm Dmitry</h1>
+  <h3>Junior Android-developer</h3>
+</div>
 
-<!--
-**SpiridonovDA/SpiridonovDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>About me:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Kotlin
+- 📫 Reach me by <a href="mailto:spirida@mail.ru">spirida@mail.ru</a>
+
+<h3>GitHub Profile Trophy:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpiridonovDA)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3>My stat:</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiridonovDA&theme=default)
